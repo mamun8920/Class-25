@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "amarproject": "npx tailwindcss -i ./source/style.css -o ./public/style.css --watch "
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
